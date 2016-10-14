@@ -59,7 +59,6 @@ numexpr==2.6.0
 numpy==1.11.1
 openpyxl==2.3.2
 pandas==0.18.1
-partd==0.3.4
 pathlib2==2.1.0
 patsy==0.4.1
 pep8==1.7.0
