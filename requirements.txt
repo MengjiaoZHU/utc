@@ -106,4 +106,3 @@ spyder==2.3.9
 SQLAlchemy==1.0.13
 sympy==1.0
 toolz==0.8.0
-traitlets==4.2.1
