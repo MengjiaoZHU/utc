@@ -75,4 +75,3 @@ pyzmq==15.2.0
 QtPy==1.0.2
 redis==2.10.5
 requests==2.10.0
-rope==0.9.4
