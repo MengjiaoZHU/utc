@@ -9,7 +9,6 @@ backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.4.0.2
 beautifulsoup4==4.4.1
 bitarray==0.8.1
-blaze==0.10.1
 boto==2.40.0
 Bottleneck==1.1.0
 cffi==1.6.0
