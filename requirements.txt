@@ -93,4 +93,3 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
-Sphinx==1.4.1
