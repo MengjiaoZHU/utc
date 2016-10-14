@@ -95,7 +95,6 @@ python-dateutil==2.5.3
 pytz==2016.4
 PyYAML==3.11
 pyzmq==15.2.0
-qtconsole==4.2.1
 QtPy==1.0.2
 redis==2.10.5
 requests==2.10.0
