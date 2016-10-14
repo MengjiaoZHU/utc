@@ -45,7 +45,6 @@ HeapDict==1.0.0
 idna==2.1
 imagesize==0.7.1
 ipaddress==1.0.16
-ipykernel==4.3.1
 ipython==4.2.0
 ipython-genutils==0.1.0
 ipywidgets==4.1.1
